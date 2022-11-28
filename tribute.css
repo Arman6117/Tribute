@@ -6,7 +6,8 @@
 p {
     font-size:x-large;
     font-style: italic;
-    font-family:'Times New Roman', Times, serif;   
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+     color:#282A3A;
 }
  table {
    width: 90%;
