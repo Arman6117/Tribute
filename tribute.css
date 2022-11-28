@@ -1,0 +1,37 @@
+.column {
+    float:left;
+    width:29.33%;
+    padding: 20px;
+}
+p {
+    font-size:x-large;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;   
+}
+ table {
+   width: 90%;
+}
+body {
+    background: #bdc3c7;  
+background: -webkit-linear-gradient(to right, #F5F7FA , #B8C6DB); 
+background: linear-gradient(to right,  #F5F7FA, #B8C6DB); 
+}   
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:#282A3A;
+    text-shadow:2px 2px #B8C6DB, 0 0 2px rgb(177, 103, 103);
+} 
+h2 {
+    font-family:monospace;
+    font-size:xx-large;
+    color: #282A3A;
+    text-shadow:2px 2px #B8C6DB, 0 0 2px rgb(225, 117, 230);
+}
+h3 {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(93, 93, 93);
+    text-shadow: 0.6px 0.6px black;
+   
+}
